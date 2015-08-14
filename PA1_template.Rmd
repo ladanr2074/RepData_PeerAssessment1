@@ -3,7 +3,7 @@ title: "Reproducible Research: Peer Assessment 1"
 
 author : "**Ladan Rabbani**"
 
-date:     "**Aug 2015**"
+date:   "**Aug 2015**"
   
 ---
 ## Introduction
